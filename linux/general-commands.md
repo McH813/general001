@@ -1,14 +1,15 @@
-
-
-  * sudo apt-get clean
-
 to clear the cache file
-
-  * sudo apt-get autoclean
+```
+sudo apt-get clean
+```
 
 to clear the cache file automatically
-
-  * sudo apt-get autoremove
+```
+sudo apt-get autoclean
+```
 
 To clean file / dependencies that are not needed from the system.
+```
+sudo apt-get autoremove
+```
 
