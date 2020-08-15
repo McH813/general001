@@ -28,4 +28,5 @@ General stuff to collate in one place that I find helpful from time to time
 
   * [Install ProtonVPN](https://github.com/McH813/general001/blob/master/linux/protonvpn.md)
   * [Simple Shell - Bash Commands](https://github.com/McH813/general001/blob/master/linux/general-commands.md)
+  * [Simple bash template](https://github.com/McH813/linux-general001/blob/master/template-bash.sh)
   
