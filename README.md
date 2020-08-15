@@ -1,5 +1,3 @@
-# general001
-
 General stuff to collate in one place that I find helpful from time to time
 
 ### Objective:
